@@ -1,0 +1,3 @@
+[submodule "tools/audio-data-prep"]
+	path = tools/audio-data-prep
+	url = https://github.com/aaditkrishna/audio-data-prep.git
